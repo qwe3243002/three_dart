@@ -15,8 +15,8 @@ dependencies:
   image: ^3.1.1
   flutter_gl:
     git:
-      url: git@github.com:wasabia/flutter_gl.git
-      ref: a5b8ff7287a4deb4e1931eba86e5644adfbb7c19
+      url: git@github.com:qwe3243002/flutter_gl.git
+      ref: main
       path: flutter_gl/
   crypto: ^3.0.1
 #  meta:
